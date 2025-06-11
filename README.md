@@ -1,4 +1,4 @@
-# Lista de Exercícios 3 - Java
+# Lista de Exercícios 2 - Java
 
 Este repositório contém a resolução da terceira lista de exercícios, desenvolvida em Java utilizando a IDE Eclipse.
 
